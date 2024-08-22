@@ -10,7 +10,6 @@ This repository contains the code for my personal portfolio website, built using
 
 - **Responsive Design**: The website adapts to various screen sizes, ensuring a smooth experience on both desktop and mobile devices.
 - **Interactive Elements**: Includes collapsible sections for project details and hover effects on images.
-- **Light and Dark Mode**: Users can switch between light and dark themes to enhance readability and comfort.
 - **Graphic Design Showcase**: A dedicated section to display my graphic design projects with interactive gallery elements.
 - **Downloadable Resume**: Users can download my resume directly from the website.
 
