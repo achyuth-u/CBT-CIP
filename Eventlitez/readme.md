@@ -1,5 +1,19 @@
 # EventLitez
 
+## Files and Their Functionalities
+
+### `index.html`
+
+The `index.html` file provides the main structure of the site, including navigation, event creation form, and event listing section.
+
+### `styles.css`
+
+The `styles.css` file defines the layout, design, and theme styles, including light and dark mode.
+
+### `script.js`
+
+The `script.js` file handles the functionality for form submissions, theme toggling, and date picking using Flatpickr.
+
 ## Usage
 
 ### Creating an Event
