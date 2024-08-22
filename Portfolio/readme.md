@@ -14,6 +14,13 @@ This repository contains the code for my personal portfolio website, built using
 - **Graphic Design Showcase**: A dedicated section to display my graphic design projects with interactive gallery elements.
 - **Downloadable Resume**: Users can download my resume directly from the website.
 
+## Project Structure
+
+- **`index.html`**: The main HTML file for the portfolio website.
+- **`styles.css`**: The CSS file for styling the website.
+- **`files/`**: Contains downloadable files, including the PDF version of my resume.
+- **`images/`**: Contains all the images used in the project, including profile photos and graphic design works.
+
 ## Sections
 
 1. **About**: Introduction to who I am, my background in Computer Science, and my passion for web development and graphic design.
@@ -24,8 +31,9 @@ This repository contains the code for my personal portfolio website, built using
 
 ## Getting Started
 
-To view the portfolio website locally, simply open the `index.html` file in your web browser. Make sure to also have the `styles.css` file in the same directory to apply the styles.
+To view the portfolio website locally, simply open the `index.html` file in your web browser. Ensure the `styles.css` file is in the same directory to apply the styles, and that the `files` and `images` folders are properly structured for the website to function correctly.
 
 ## Contributions
 
 Feel free to explore the code, suggest improvements, or use it as a reference for your own projects. Contributions are welcome!
+
